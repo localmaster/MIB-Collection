@@ -1,1 +1,13 @@
-{"version": 1, "files": {}}
+{
+ "version": 1,
+ "synced_at": "2026-11-12T19:49:14+00:00",
+ "folder": "MIB-Collection",
+ "files": {
+  "Keenetic/HOST-RESOURCES-MIB.mib": "0afd254c1011fb02976a7564485647c58e64b654",
+  "Keenetic/IF-MIB.mib": "871389436b04e7abbae7acca8798c61355c667b2",
+  "Keenetic/IP-MIB.mib": "fe2db5f235e5cdddd6522cf2a1dc79c41a78f950",
+  "Keenetic/SNMPv2-MIB.mib": "9494e42cbdc7c720f58e4c0010029990109310d1",
+  "Keenetic/UCD-SNMP-MIB.mib": "4f4358413d6cd251578a91edfd70834088ea1d66",
+  "Keenetic/UDP-MIB.mib": "eec9dbadbad4c4322d267c8cbd021572504cf166"
+ }
+}
